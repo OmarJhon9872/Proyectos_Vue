@@ -18,7 +18,7 @@ Vue.component('todolist', {
 	},
 	methods: {
 		validateIsEmptyField: function(task){
-			console.log(task);
+			
 			if(task.trim().length < 5){
 				document.querySelector('.tooltiptext').style.visibility = 'visible';
 				setTimeout(function(){
@@ -51,29 +51,9 @@ Vue.component('todolist', {
 							option==2 ? !task.made ? 1:0 :
 							task.made ? 1:0;
 			}
-		},
-		/*showTodas: function(){
-			for(tarea of this.tasks){
-				tarea.show = 1;
-			}
-		},
-		nomades: function(){
-			for(tarea of this.tasks){
-				tarea.show = !tarea.made ? 1:0;
-			}
-		},
-		mades: function(){
-			for(tarea of this.tasks){
-				tarea.show = tarea.made ? 1:0;
-			}
-		}*/
-
+		}
 	},
-	/*beforeCreate, created, beforeMount, mounted,
-	beforeUpdate, updated, beforeDestroy, destroyed*/
-	/*beforeUpdate: function(){
-
-	},*/
+	
 	computed: {
 		completed: function(){
 			let mades=0,miss=0;
@@ -83,16 +63,7 @@ Vue.component('todolist', {
 			text = 'Hechas: '+mades+' | Faltantes: '+miss;
 			return [text, miss, mades];
 		},
-		/*completed: function(){
-			return this.tasks.filter(function(task){
-				return task.made;
-			}).length;
-		},
-		missing: function(){
-			return this.tasks.filter(function(task){
-				return !task.made;
-			}).length;
-		}*/
+		
 	},
 	template: `
 	<div>
