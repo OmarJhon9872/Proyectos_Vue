@@ -1,0 +1,29 @@
+<svg width="203" height="235" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <g>
+  <title>background</title>
+  <rect fill="#fff" id="canvas_background" height="237" width="205" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <g transform="rotate(-0.5436160564422607 101.4635848999012,117.05879974365222) " id="svg_24">
+   <line stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_2" y2="218.00005" x2="157.23533" y1="52.00005" x1="19.23533" stroke-width="1.5" stroke="#000" fill="none"/>
+   <line stroke="#000" stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_3" y2="191.00005" x2="200.23533" y1="21.00004" x1="58.23532" stroke-width="1.5" fill="none"/>
+   <line stroke="#000" stroke-linecap="null" stroke-linejoin="null" id="svg_9" y2="189.00005" x2="198.23533" y1="216.82358" x1="157.47062" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" fill="none"/>
+   <line stroke-linecap="null" stroke-linejoin="null" id="svg_10" y2="231.76464" x2="201.1764" y1="217.05876" x1="157.05877" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="none"/>
+   <line stroke="#000" stroke-linecap="null" stroke-linejoin="null" id="svg_11" y2="230.58817" x2="200.58818" y1="189.41171" x1="199.41169" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" fill="none"/>
+   <line stroke-linecap="null" stroke-linejoin="null" id="svg_12" y2="222.94111" x2="199.99993" y1="228.23523" x1="191.17641" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="none"/>
+   <line stroke-linecap="null" stroke-linejoin="null" id="svg_13" y2="17.91182" x2="54.73533" y1="49.08828" x1="15.32357" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="none"/>
+   <path id="svg_15" d="m19.41175,49.99998c0,0.58824 -18.23529,-22.35294 -17.64705,-22.35294c0.58824,0 14.70588,-19.99999 35.88234,-25.29411" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="none"/>
+   <path id="svg_16" d="m37.0588,2.35293l21.7647,18.2353" opacity="0.5" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="none"/>
+   <line stroke-linecap="null" stroke-linejoin="null" id="svg_19" y2="209.99994" x2="164.70583" y1="44.11763" x1="22.94116" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="none"/>
+   <line stroke-linecap="null" stroke-linejoin="null" id="svg_20" y2="204.70582" x2="172.94112" y1="38.82351" x1="31.17645" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="none"/>
+   <line stroke-linecap="null" stroke-linejoin="null" id="svg_23" y2="192.94112" x2="187.647" y1="27.05881" x1="45.88233" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="none"/>
+   <line stroke-linecap="null" stroke-linejoin="null" id="svg_22" y2="189.41171" x2="195.29405" y1="23.5294" x1="53.52938" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="none"/>
+   <line stroke-linecap="null" stroke-linejoin="null" id="svg_17" y2="198.82347" x2="181.76464" y1="32.94116" x1="39.99998" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="none"/>
+  </g>
+ </g>
+</svg>
